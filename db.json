@@ -1,0 +1,20 @@
+{
+  "Recipe": [
+    {
+      "title": "Gulab Jamun",
+      "ingredients": " cup dry milk powder",
+      "time": "15min",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2226807.jpg&w=1200&h=678&c=sc&poi=face&q=85",
+      "instructions": "In a large bowl, stir together the milk powder, flour, baking powder, and cardamom. Stir in the almonds, pistachios and golden raisins. Mix in the melted ghee, then pour in the milk, and continue to mix until well blended. Cover and let rest for 20 minutes.",
+      "id": 1
+    },
+    {
+      "title": "Rasgullas",
+      "ingredients": "6 cups milk  3 tablespoons fresh lime juice  2 ½ cups white sugar",
+      "time": "1 hr 50 mins",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F468683.jpg&w=596&h=596&c=sc&poi=face&q=85",
+      "instructions": "ring the milk to a boil in a heavy-bottomed pan till it starts foaming; immediately add the lime juice and stir. It will curdle right away. You should see the milk solids (chenna) separate from the whey. Pour into a colander lined with cheesecloth; rinse the chenna with cold water to get rid of the lime juice. Allow the water to drain completely.",
+      "id": 2
+    }
+  ]
+}
